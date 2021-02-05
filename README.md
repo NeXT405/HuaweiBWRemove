@@ -110,4 +110,5 @@ pm uninstall -k --user 0 com.huawei.lbs
 pm uninstall -k --user 0 com.huawei.vassistant
 pm uninstall -k --user 0 com.huawei.android.totemweather
 pm uninstall -k --user 0 com.huawei.mw
+pm uninstall -k --user 0 com.android.calendar
 ```
